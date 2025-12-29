@@ -1,6 +1,10 @@
 # vroidpose-to-bvh-nodejs
 Convert a .vroidpose file(VRoid Studio) to BVH. node.js
 
+Convert a VRoid Studio .vroidpose file into a one‑frame BVH.
+
+Hand data is not supported.
+
 # Requirements
 Node.js
 
